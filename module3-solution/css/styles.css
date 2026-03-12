@@ -1,0 +1,25 @@
+.content-section {
+    background-color: #999999;
+    padding: 20px;
+    margin: 15px;
+    height: 1000px;
+}
+
+.navbar-nav {
+    margin: 0;
+    background-color: #e7e7e7;
+}
+
+.navbar-nav li a {
+    text-align: center;
+    border-bottom: 1px solid #333;
+}
+
+.navbar-nav li:last-child a {
+    border-bottom: none;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
